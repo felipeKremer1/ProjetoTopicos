@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke ;
+    padding: 15px;
+    background-image: linear-gradient(to right, rgba(17, 17, 17, 0.248) , rgba(232, 235, 236, 0.765));
+}
+.container{
+    background: gainsboro;
+    position: relative;
+    margin: auto;
+    height: 700px;
+    width: 800px;
+}
+h1{
+    border: 10px 10px 10px 10px;
+    font-family: Verdana;
+    text-shadow: 0.1;
+    color: rgb(0, 0, 79);
+}
+h2{
+    font: 160% sans-serif;
+    color:rgb(26, 42, 187);
+}
